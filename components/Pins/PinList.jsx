@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect } from "react";
-import PinItems from "./PinItems";
+import PinItems from "./Pinitems";
 const PinList = ({ listOfPins, searchedPins }) => {
   console.log(listOfPins);
   return (
